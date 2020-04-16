@@ -488,7 +488,7 @@ deal.addEventListener('click', dealCards);
 
 // tasks still to do
 
-// add time daleys to stagger the dealers moves
+// add time delays to stagger the dealers moves
 // improve visuals ie card pictures
-// do ace logic
-// keep working on it and adding other features as i learn
+// do ace 1 or 11 logic
+// keep working on it and adding other features as I learn
